@@ -26,7 +26,7 @@ export default defineConfig(() => ({
         globPatterns: ['**/*.{js,css,html,woff,woff2,mp3}'],
       },
       manifest: {
-        short_name: '${title}',
+        short_name: 'SDCTRACKER',
         name: '${description}',
         theme_color: '${colorPrimary}',
         icons: [
